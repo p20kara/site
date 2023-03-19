@@ -12,4 +12,5 @@ events:
   - ipod_1g
   - iphone-jobs
   - apple-smartwatch
+  - Apple_Newton_and_iPhone
 ---
