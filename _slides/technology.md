@@ -11,5 +11,7 @@ slides:
   - emulators 
   - android-emulator
   - smalltalk
+  - Apple_Newton_and_iPhone
+  - aibo-photo1-full
 ---
 
