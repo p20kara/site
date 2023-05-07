@@ -10,4 +10,4 @@ tags:
  - Apple
 ---
 
-{% include cs-apple_message_pad%}
+{% include cs-apple_message_pad.md%}
